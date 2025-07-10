@@ -2,6 +2,9 @@
 
 import { Analytics } from "@vercel/analytics/next"
 
+import { SpeedInsights } from "@vercel/speed-insights/next"
+
+
 import './globals.css';
 import Sidebar from './components/Sidebar';
 
