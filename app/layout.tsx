@@ -1,4 +1,7 @@
 // app/layout.tsx
+
+import { Analytics } from "@vercel/analytics/next"
+
 import './globals.css';
 import Sidebar from './components/Sidebar';
 
